@@ -45,31 +45,31 @@ print(area_of_circle)
 circum_of_circle= (3.14* (2 *radius))
 print(circum_of_circle)
 
-# radius = float(input("Input Radius: " ))
-# area= 3.14 * (radius ** 2)
-# print(area)
+radius = float(input("Input Radius: " ))
+area= 3.14 * (radius ** 2)
+print(area)
 
 # Write a script that prompts the user to enter base and height of the triangle and calculate an area of this triangle (area = 0.5 x b x h).
 #  Enter base: 20
-    # Enter height: 10
-    # The area of the triangle is 100
-# base=float(input("Enter base :" ))
-# height=float(input("Enter height :" ))
-# area_of_the_triangle= base * height
-# print(f"The area_of the triangle is : {area_of_the_triangle}")
+#     Enter height: 10
+#     The area of the triangle is 100
+base=float(input("Enter base :" ))
+height=float(input("Enter height :" ))
+area_of_the_triangle= base * height
+print(f"The area_of the triangle is : {area_of_the_triangle}")
 
 
-# #Write a script that prompts the user to enter side a, side b, and side c of the triangle. Calculate the perimeter of the triangle (perimeter = a + b + c).
-# # Enter side a: 5
-# # Enter side b: 4
-# # Enter side c: 3
-# # The perimeter of the triangle is 12
+#Write a script that prompts the user to enter side a, side b, and side c of the triangle. Calculate the perimeter of the triangle (perimeter = a + b + c).
+# Enter side a: 5
+# Enter side b: 4
+# Enter side c: 3
+# The perimeter of the triangle is 12
 
-# a=int(input("Enter side a:" ))
-# b=int(input("Enter side b:" ))
-# c=int(input("Enter side c:" ))
-# perimeter=(a+b+c)
-# print(f"The perimeter of the triangle is {perimeter}")
+a=int(input("Enter side a:" ))
+b=int(input("Enter side b:" ))
+c=int(input("Enter side c:" ))
+perimeter=(a+b+c)
+print(f"The perimeter of the triangle is {perimeter}")
 
 word="python"
 word2="dragon"
